@@ -4,6 +4,9 @@
 This project presents a Power BI dashboard analyzing 19 months of emergency room (ER) data (April 2023 – October 2024). 
 The analysis focuses on operational efficiency, patient demographics, and service utilization to optimize resource allocation and improve patient experience.
 
+## Data Source
+Kaggle : https://www.kaggle.com/datasets/xavierberge/hospital-emergency-dataset
+
 ## Key Metrics & Insights
 The dashboard tracks performance across several critical dimensions:
 *   **Operational Efficiency:**
@@ -22,3 +25,6 @@ The dashboard tracks performance across several critical dimensions:
 1.  Identify bottlenecks in patient flow (e.g., peak hours at 11 AM, 1 PM, 7 PM).
 2.  Adjust staffing for high-volume days (Mondays and Saturdays).
 3.  Monitor equity in care delivery across different racial and age demographics.
+
+## Tech Stack
+PowerBI
