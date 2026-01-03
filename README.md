@@ -22,7 +22,7 @@ The dashboard tracks performance across several critical dimensions:
     *   Highest referrals to **General Practice** (1,840) and **Orthopedics** (995).
 
 ## Data-informed strategic steps
-1.  Identify bottlenecks in patient flow (e.g., peak hours at 11 AM, 1 PM, 7 PM).
+1.  Identify bottlenecks in patient flow (e.g., peak hours on Mondays and Saturdays).
 2.  Adjust staffing for high-volume days (Mondays and Saturdays).
 3.  Monitor equity in care delivery across different racial and age demographics.
 
