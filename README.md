@@ -1,4 +1,4 @@
-# Hospital Emergency Room Analytics Dashboard
+# Healthcare Management (Hospital Emergency Room) Analytics Dashboard
 
 ## Project Overview
 This project presents a Power BI dashboard analyzing 19 months of emergency room (ER) data (April 2023 – October 2024). 
